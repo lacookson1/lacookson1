@@ -1,3 +1,7 @@
+<style>
+  h1 { color: red;
+  }
+  </style>
 <h1>Liam Cookson</h1>
 
 <img src="https://wearecodenation.com/app/uploads/2020/02/Headshots-15-980x980.jpg" width="50%" alt="image of Liam Cookson">
