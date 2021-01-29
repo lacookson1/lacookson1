@@ -1,5 +1,5 @@
-
-<div align="center" style="color: gold;">
+<span style="color:gold">
+<div align="center">
 <h1>Liam Cookson</h1>
 
 <img src="https://wearecodenation.com/app/uploads/2020/02/Headshots-15-980x980.jpg" width="40%" alt="image of Liam Cookson">
@@ -11,7 +11,7 @@
   🐥 Follow me on <a href="https://twitter.com/liamanthology">Twitter</a><br>
   💼 Connect with me on <a href="https://www.linkedin.com/in/liamanthology">LinkedIn</a><br>
   </div>                        
-
+</span>
 <!--
 **lacookson1/lacookson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
