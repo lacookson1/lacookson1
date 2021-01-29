@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="color: gold;">
 <h1>Liam Cookson</h1>
 
 <img src="https://wearecodenation.com/app/uploads/2020/02/Headshots-15-980x980.jpg" width="40%" alt="image of Liam Cookson">
