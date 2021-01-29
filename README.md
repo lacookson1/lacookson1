@@ -1,4 +1,5 @@
 
+<div align="center">
 <h1>Liam Cookson</h1>
 
 <img src="https://wearecodenation.com/app/uploads/2020/02/Headshots-15-980x980.jpg" width="50%" alt="image of Liam Cookson">
@@ -9,7 +10,7 @@
   🏷 My pronouns are he/him<br>
   🐥 Follow me on <a href="https://twitter.com/liamanthology">Twitter</a><br>
   💼 Connect with me on <a href="https://www.linkedin.com/in/liamanthology">LinkedIn</a><br>
-                          
+  </div>                        
 
 <!--
 **lacookson1/lacookson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
