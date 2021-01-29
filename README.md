@@ -1,4 +1,3 @@
-<span style="color:yellow">
 <div align="center">
 <h1>Liam Cookson</h1>
 
@@ -11,7 +10,6 @@
   🐥 Follow me on <a href="https://twitter.com/liamanthology">Twitter</a><br>
   💼 Connect with me on <a href="https://www.linkedin.com/in/liamanthology">LinkedIn</a><br>
   </div>                        
-</span>
 <!--
 **lacookson1/lacookson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
