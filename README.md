@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Liam Cookson</h1>
 
-<h2>I Technical Lead - Short Course Provision at <a href="https://wearecodenation.com">Code Nation</a>.</h2>
+<h2>I'm the Technical Lead - Short Course Provision at <a href="https://wearecodenation.com">Code Nation</a>.</h2>
   👷 My GitHub is a work in progress, please bear with me!<br>
   🙋‍♂️ I currently teach Python, Javascript, HTML and CSS<br>
   🏷 My pronouns are he/him<br>
