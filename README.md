@@ -1,9 +1,9 @@
 <div align="center">
 <h1>Liam Cookson</h1>
 
-<h2>I'm the Technical Lead - Short Course Provision at <a href="https://wearecodenation.com">Code Nation</a>.</h2>
+<h2>I'm a Technical Skills Coach for <a href="https://northcoders.com">Northcoders</a>.</h2>
   👷 My GitHub is a work in progress, please bear with me!<br>
-  🙋‍♂️ I currently teach Python, Javascript, HTML and CSS<br>
+  🙋‍♂️ My main language is JavaScript but I also love Python<br>
   🏷 My pronouns are he/him<br>
   🐥 Follow me on <a href="https://twitter.com/liamanthology">Twitter</a><br>
   💼 Connect with me on <a href="https://www.linkedin.com/in/liamanthology">LinkedIn</a><br>
