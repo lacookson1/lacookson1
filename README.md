@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Liam Cookson</h1>
 
-<h2>I'm a Technical Skills Coach for <a href="https://northcoders.com">Northcoders</a>.</h2>
   👷 My GitHub is a work in progress, please bear with me!<br>
   🙋‍♂️ My main language is JavaScript but I also love Python<br>
   🏷 My pronouns are he/him<br>
